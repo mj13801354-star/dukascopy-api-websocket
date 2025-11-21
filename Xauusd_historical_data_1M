@@ -1,0 +1,6 @@
+Symbol: XAUUSD
+Timeframe: 1 Minute
+From: 2015-01-01
+To: 2025-01-01
+Format: CSV (OHLCV)
+Timezone: UTC
